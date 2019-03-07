@@ -19,5 +19,6 @@
 		"graphql": "^14.1.1",
 		"mongoose": "^5.4.16",
 		"nodemon": "^1.18.10"
-	}
+	},
+	"heroku-run-build-script": true
 }
